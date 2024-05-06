@@ -146,7 +146,9 @@ print('Loop is finished.')
 ```
 
 ```Answer goes here:
-
+5
+4
+3
 ```
 
 ## Example #2: Basic While Loop with `continue`
